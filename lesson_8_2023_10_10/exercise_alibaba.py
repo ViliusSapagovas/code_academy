@@ -1,11 +1,21 @@
-list_of_words = []
+letter_dict = {}
+words = input("Enter: ")
+word_list = words.split(",")
 
-while n >= 5:
-    n = int(input("Enter amount of words: "))
-    if n >= 5:
-        break
-    else:
-        print("Try again :(")
+# for word in word_list: 
+#     for letter in words:
+#         if letter in letter_dict:
+
+
+
+
+
+# while n >= 5:
+#     n = int(input("Enter amount of words: "))
+#     if n >= 5:
+#         break
+#     else:
+#         print("Try again :(")
 
 
 
